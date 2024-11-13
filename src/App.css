@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul li {
+  margin-right: 3em;
+  font-size: 1.3em;
+  font-weight: 400;
+  cursor: pointer;
+}
